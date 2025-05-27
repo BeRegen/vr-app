@@ -175,9 +175,9 @@ Este aplicativo base pode ser expandido de várias formas:
 ## Suporte
 
 Para dúvidas ou suporte adicional, entre em contato:
-- Email: [seu-email@exemplo.com]
-- Website: [seu-website.com]
+- Email: beregenerative.life@gmail.com      
+- Website: https://github.com/BeRegen
 
 ---
 
-© 2025 [Sua Empresa]. Todos os direitos reservados.
+© 2025 BeRegen. Todos os direitos reservados.
